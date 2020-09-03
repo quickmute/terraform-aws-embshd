@@ -1,3 +1,4 @@
+##comment
 variable "timestamps" {
   type    = bool
   default = true
