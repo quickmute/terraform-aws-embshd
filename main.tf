@@ -13,3 +13,7 @@ locals {
 output "timestamp"{
   value = local.timestamps_tags  
 }
+
+output "dog"{
+  value = "woof"
+}
